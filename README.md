@@ -3,6 +3,10 @@
   <h2>👋 Hi there, I am Andrew LC</h2> 
 </div>
 
+<div align="center">
+  <img src="https://i.giphy.com/media/Uz4cDaGXPxeuY/giphy.webp" width="700px" />
+</div>
+
 
 ### 💻 About me :
 I am a full stack developer based in India
