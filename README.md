@@ -13,7 +13,7 @@
 I am a full stack developer based in India
 - I am a undergraduate currently undergoing my studies in the field of software engineering.
 - I like reading books, manga, and wathcing anime.
-- I am currently learning web development.
+- I am currently reading "crafting intepreters" by Robert Nystrom
 
 ---
 
