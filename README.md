@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.giphy.com/media/Uz4cDaGXPxeuY/giphy.webp" width="700px" />
+  <img src="./img.png" />
 </div>
 
 ---
